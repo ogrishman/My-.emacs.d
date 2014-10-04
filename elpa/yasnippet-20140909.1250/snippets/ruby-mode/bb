@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: multiline block
+# key: bb
+# binding: direct-keybinding
+# --
+do${10: |${20:e}|}
+    $0
+end

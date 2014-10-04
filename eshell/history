@@ -1,0 +1,14 @@
+pwd
+dir
+c:
+dir
+cd c:
+dir
+cd c:\pwd
+ls
+dir
+ls
+ls -R
+cd test
+tree
+ls -R

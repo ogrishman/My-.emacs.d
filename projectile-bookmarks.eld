@@ -1,0 +1,1 @@
+("c:/rails_projects/blog/")

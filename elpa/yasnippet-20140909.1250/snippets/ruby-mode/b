@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: single line block
+# key: b
+# binding: direct-keybinding
+# --
+{|${1:e}| ${2:puts $1} }
